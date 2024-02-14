@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-**This is Dogukan (aka Dodo) and I am a Front-End Developer from Victoria, BC.**
+**This is Dogukan (aka Dodo) and I am a Front-End Developer from Victoria, BC with an entrepreneurial and engineering background.**
 
 - I'm currently working on V2 of my webpage, My Personal Trainer, Balanced Habits, and the simple app to control my lights in my home office/personal room setup. To check them out;
  - My Personal Trainer - It is a full stack Nextjs App utilized with OpenAI API and it lets users create a workout plan by entering some information. [Repository](https://github.com/DodoBey/mypersonaltrainer) [URL to APP](https://mypersonaltrainer.onrender.com/)
